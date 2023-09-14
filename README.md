@@ -3,7 +3,7 @@
 ## Team
 |Student name| CCID |
 |------------|------|
-|student 1   |      |
+|student 1   |  yuqi14   |
 |student 2   |      |
 
 ## TODOs
